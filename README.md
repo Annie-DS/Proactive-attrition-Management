@@ -1,7 +1,8 @@
 # Proactive-attrition-Management
 Predicting customer Churn
 
-Objective: This case is to develop a model for predicting customer churn at telecom company, and use insights from the model to develop an incentive plan for enticing would-be churners to remain with the company.
+Objective: •	Developed a model for predicting customer churn at a wireless telecom company, and used insights from the model to develop an incentive plans for enticing would-be churners to remain with the company.
+•	Data Cleaning, Selection of Variables, Predictive Modeling and performance, Analyzed key factors predicting customer churn, designed offers to encourage customers to remain with the company.
 
 Please find the following:
 1) .R File
